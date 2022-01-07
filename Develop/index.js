@@ -2,7 +2,7 @@
 const fs = require('fs');
 const path = require('path')
 const { prompt } = require('inquirer');
-//const generateMarkdown = require('./utils/generateMarkdown');
+const generateMarkdown = require('./utils/generateMarkdown');
 const inquirer = require('inquirer');
 
 
@@ -21,43 +21,43 @@ const questions = [
     {
       type: 'input',
       name: 'title',
-      message: 'What is your project name?'  
+      message: 'What is the title of this project?'  
     },
     {
         type: 'input',
         name: 'description',
-        message: 'What is the description of the project?'
-    },
-    {
-      type: 'input',
-      name: 'contents',
-      message: 'Do you need a Table of Contents?'  
+        message: 'What does this project do?'
     },
     {
       type: 'input',
       name: 'installation',
-      message: 'What are the steps to install your?'  
+      message: 'What are the installation instructions?'  
     },
     {
       type: 'input',
       name: 'usage',
-      message: 'What is the usage?'  
+      message: 'How do you use this project?'  
     },
     {
       name: 'license',
-      message: 'Select kind of license for this application:',
+      message: 'Select a license for this application:',
       type: 'checkbox',
-      choices: ["MIT", "Academic Free License v3.0", "Apache license 2.0"]
+      choices: ['MIT', 'Academic Free License v3.0', 'Apache license 2.0', '']
     },
     {
       type: 'input',
-      name: 'contributing',
-      message: 'Who is contributing?'  
+      name: 'contributors',
+      message: 'Who are the contributors?'  
+    },
+    {
+      type: 'input',
+      name: 'how-to-contribute', 
+      message: 'How do you contribute to this project?'
     },
     {
       type: 'input',
       name: 'tests',
-      message: 'What are the tests used for this project?'  
+      message: 'How do you test this application?'  
     },
 
     {
