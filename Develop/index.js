@@ -76,8 +76,9 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function init() {
-    prompt(questions).then(ans=>console.log(ans));
-    //writeToFile((answers.fileName), (generateMarkdown(answers)));
+    prompt(questions).then(answers => {
+      writeToFile(('README'), (generateMarkdown(answers)))
+    });    
 }
 
 // Function call to initialize app
