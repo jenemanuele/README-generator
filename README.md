@@ -1,5 +1,5 @@
-# README generator
-  ![alt text](assets/images/test.1.PNG)
+# readme generator
+  ![alt text](images/test.1.PNG)
   ## Badges
   
   ## Table of Contents
@@ -13,23 +13,23 @@
   * [Questions?](#questions)
   * [License](#license)
   ## Description
-  Makes a professional Readme file to add to github projects
+  makes a professional readme 
   ## Installation
-  Use node.js with application.
+  Use nodejs
   ## Useage
-  For projects on github
+  Utility for other projects
   ## Contributors
   Jennifer Emanuele
   ## How to Contribute
-  Contact me
+  Contact
   [Contributor Covenant](https://www.contributor-covenant.org/)
   ## Tests
-  None.
+  None
   ## Questions?
-  None.
+  None
   ## License
   
   
   ### Reach me here:
-  [Jen](https://github.com/Jen) 
+  [jenemanuele](https://github.com/jenemanuele) 
   jemanuele@gmail.com
