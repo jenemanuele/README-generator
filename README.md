@@ -3,7 +3,7 @@
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
-  * [Useage](#useage)
+  * [Usage](#useage)
   * [License](#license)
   * [Contributors](#contributors)
   * [How to Contribute](#how-to-contribute)
@@ -11,23 +11,23 @@
   * [Questions?](#questions)
   * [License](#license)
   ## Description
-  Auto generates a professional readme file
+  Makes a readme file for every project or app you need
   ## Installation
-  Use with Node js
-  ## Useage
-  For any project or app on github
+  Use Nodejs
+  ## Usage
+  Utility for files and projects
   ## Contributors
   Jennifer Emanuele
   ## How to Contribute
-  Contact me
+  Contact
   [Contributor Covenant](https://www.contributor-covenant.org/)
   ## Tests
   None
   ## Questions?
   None
   ## License
-  
-  
+  Read more about Academic Free License v3.0 here:
+  [Academic Free License v3.0](https://opensource.org/licenses/AFL-3.0)
   ### Reach me here:
   [jenemanuele](https://github.com/jenemanuele) 
   jemanuele@gmail.com

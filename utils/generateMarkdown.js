@@ -20,11 +20,11 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if (license === licenseArr[0]){
-    return `Read more about ${licenceArr[0]} here:`
+    return `Read more about ${licenseArr[0]} here:`
   } else if (license === licenseArr[1]) {
-    return `Read more about ${licenceArr[1]} here:`
+    return `Read more about ${licenseArr[1]} here:`
   } else if (license === licenseArr[2]) {
-    return `Read more about ${licenceArr[2]} here:`
+    return `Read more about ${licenseArr[2]} here:`
   } else {
     return ""
   }
@@ -37,7 +37,7 @@ function generateMarkdown(data) {
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
-  * [Useage](#useage)
+  * [Usage](#useage)
   * [License](#license)
   * [Contributors](#contributors)
   * [How to Contribute](#how-to-contribute)
@@ -48,8 +48,8 @@ function generateMarkdown(data) {
   ${data.description}
   ## Installation
   ${data.installation}
-  ## Useage
-  ${data.useage}
+  ## Usage
+  ${data.usage}
   ## Contributors
   ${data.contributors}
   ## How to Contribute
@@ -60,7 +60,7 @@ function generateMarkdown(data) {
   ## Questions?
   ${data.questions}
   ## License
-  ${renderLicenseSection(data.licenseArr)}
+  ${renderLicenseSection(data.license)}
   ${renderLicenseLink(data.license)}
   ### Reach me here:
   [${data.username}](https://github.com/${data.username}) 

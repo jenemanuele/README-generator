@@ -36,14 +36,14 @@ const questions = [
     },
     {
       type: 'input',
-      name: 'useage',
+      name: 'usage',
       message: 'How do you use this project? '  
     },
     {
       name: 'license',
       message: 'Select a license for this application:',
       type: 'list',
-      choices: ['MIT', 'Academic Free License v3.0', 'Apache license 2.0',]
+      choices: ['MIT License', 'Academic Free License v3.0', 'Apache license 2.0']
     },
     {
       type: 'input',
