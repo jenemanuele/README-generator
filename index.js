@@ -4,6 +4,7 @@ const path = require('path')
 const { prompt } = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown');
 const inquirer = require('inquirer');
+// const { writeFile } = require;
 
 
 // TODO: Create an array of questions for user input
@@ -57,7 +58,7 @@ const questions = [
     {
       type: 'input',
       name: 'tests',
-      message: 'How do you test this application?'  
+      message: 'Please add your testing instructions (if any).'  
     },
 
     {
@@ -70,7 +71,7 @@ const questions = [
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
     fs.appendFile(`${fileName}.md`, data,
-    (err) => err ? console.error(err) : console.log(`${fileName}.md has been generated`))
+    (err) => err ? console.error(err) : console.log(`${fileName}.md has been generated!`))
 }
 
 
