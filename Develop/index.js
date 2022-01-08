@@ -35,7 +35,7 @@ const questions = [
     },
     {
       type: 'input',
-      name: 'usage',
+      name: 'useage',
       message: 'How do you use this project?'  
     },
     {
@@ -51,7 +51,7 @@ const questions = [
     },
     {
       type: 'input',
-      name: 'how-to-contribute', 
+      name: 'howContribute', 
       message: 'How do you contribute to this project?'
     },
     {
