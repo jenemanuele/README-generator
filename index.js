@@ -37,13 +37,13 @@ const questions = [
     {
       type: 'input',
       name: 'useage',
-      message: 'How do you use this project?'  
+      message: 'How do you use this project? '  
     },
     {
       name: 'license',
       message: 'Select a license for this application:',
-      type: 'checkbox',
-      choices: ['MIT', 'Academic Free License v3.0', 'Apache license 2.0', '']
+      type: 'list',
+      choices: ['MIT', 'Academic Free License v3.0', 'Apache license 2.0',]
     },
     {
       type: 'input',
@@ -77,9 +77,9 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function init() {
-    prompt(questions).then(answers => {
-      writeToFile(('README'), (generateMarkdown(answers)))
-    });    
+  prompt(questions).then(answers => {
+    writeToFile(('README'), (generateMarkdown(answers)))
+  });    
 }
 
 // Function call to initialize app
