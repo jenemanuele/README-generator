@@ -36,7 +36,7 @@ function generateMarkdown(data) {
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
-  * [Usage](#useage)
+  * [Usage](#usage)
   * [License](#license)
   * [Contributors](#contributors)
   * [How to Contribute](#how-to-contribute)
@@ -66,7 +66,7 @@ function generateMarkdown(data) {
   ### Reach me here:
   [${data.username}](https://github.com/${data.username}) 
   or ${data.email}
-  ## Screenshot
+  # ****Screenshot*****
  
   ![alt text](images/screenshot.1.PNG)
   `
