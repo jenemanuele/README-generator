@@ -1,4 +1,4 @@
-# jen
+# readme generator
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -11,26 +11,26 @@
   * [License](#license)
   * [Screenshot]
   ## Description
-  jen
+  Makes a professional readme file
   ## Installation
-  jen
+  Node js
   ## Usage
-  jen
+  Utility application
   ## Contributors
-  jen
+  Jen Emanuele
   ## How to Contribute
-  jen
+  Contact.
   Please see: [Contributor Covenant](https://www.contributor-covenant.org/)
   ## Tests
-  jen
+  None.
   ## Questions?
-  
+  None.
   ## License
-  Read more about Apache license 2.0 here:
-  [Apache license 2.0(https://opensource.org/licenses/Apache-2.0]
+  Read more about MIT License here:
+  [MIT License](https://opensource.org/licenses/MIT)
   ### Reach me here:
-  [jen](https://github.com/jen) 
-  or jen
+  [jenemanuele](https://github.com/jenemanuele) 
+  or jemanuele@gmail.com
   #  💜 Screenshot 💜
  
   ![alt text](images/screenshot.1.PNG)
