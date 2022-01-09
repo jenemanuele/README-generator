@@ -11,23 +11,24 @@
   * [Questions?](#questions)
   * [License](#license)
   ## Description
-  Makes a readme file for every project or app you need
+  A professional README file generator for all applications and projects on github.
   ## Installation
   Use Nodejs
   ## Usage
-  Utility for files and projects
+  Utility application.
   ## Contributors
   Jennifer Emanuele
   ## How to Contribute
-  Contact
-  [Contributor Covenant](https://www.contributor-covenant.org/)
+  Please contact.
+  [
+    Contributor Covenant](https://www.contributor-covenant.org/)
   ## Tests
-  None
+  None.
   ## Questions?
-  None
+  None.
   ## License
-  Read more about Academic Free License v3.0 here:
-  [Academic Free License v3.0](https://opensource.org/licenses/AFL-3.0)
+  Read more about MIT License here:
+  [MIT License](https://opensource.org/licenses/MIT)
   ### Reach me here:
   [jenemanuele](https://github.com/jenemanuele) 
-  jemanuele@gmail.com
+  [or jemanuele@gmail.com]

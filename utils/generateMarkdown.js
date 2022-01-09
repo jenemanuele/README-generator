@@ -54,7 +54,8 @@ function generateMarkdown(data) {
   ${data.contributors}
   ## How to Contribute
   ${data.howContribute}
-  [Contributor Covenant](https://www.contributor-covenant.org/)
+  [
+    Contributor Covenant](https://www.contributor-covenant.org/)
   ## Tests
   ${data.tests}
   ## Questions?
@@ -64,7 +65,7 @@ function generateMarkdown(data) {
   ${renderLicenseLink(data.license)}
   ### Reach me here:
   [${data.username}](https://github.com/${data.username}) 
-  ${data.email}`
+  [or ${data.email}]`
   ;
 }
 
