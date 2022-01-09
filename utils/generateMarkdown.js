@@ -65,9 +65,10 @@ function generateMarkdown(data) {
   ### Reach me here:
   [${data.username}](https://github.com/${data.username}) 
   or ${data.email}
-  #  💜 Screenshot 💜
- 
+  #  💜 Screenshot 💜 
   ![alt text](images/screenshot.1.PNG)
+  # Video 
+  [Video Walkthrough](https://watch.screencastify.com/v/42JNJvV0rcFUkYpQhw0k) 
   `
   ;
 }
