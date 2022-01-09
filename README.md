@@ -1,8 +1,8 @@
-# readme generator
+# README generator
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
-  * [Usage](#useage)
+  * [Usage](#usage)
   * [License](#license)
   * [Contributors](#contributors)
   * [How to Contribute](#how-to-contribute)
@@ -11,7 +11,7 @@
   * [License](#license)
   * [Screenshot]
   ## Description
-  Generates a readme file for github
+  generates a readme file
   ## Installation
   Nodejs
   ## Usage
@@ -19,20 +19,19 @@
   ## Contributors
   Jennifer Emanuele
   ## How to Contribute
-  Contact.
-  [
-    Contributor Covenant](https://www.contributor-covenant.org/)
+  contact. 
+  Please see: [Contributor Covenant](https://www.contributor-covenant.org/)
   ## Tests
-  
+  None
   ## Questions?
-  None.
+  None
   ## License
   Read more about MIT License here:
   [MIT License](https://opensource.org/licenses/MIT)
   ### Reach me here:
   [jenemanuele](https://github.com/jenemanuele) 
   or jemanuele@gmail.com
-  ## Screenshot
+  # ****Screenshot*****
  
   ![alt text](images/screenshot.1.PNG)
   

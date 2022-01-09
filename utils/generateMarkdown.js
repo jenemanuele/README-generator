@@ -54,8 +54,7 @@ function generateMarkdown(data) {
   ${data.contributors}
   ## How to Contribute
   ${data.howContribute}
-  [
-    Contributor Covenant](https://www.contributor-covenant.org/)
+  Please see: [Contributor Covenant](https://www.contributor-covenant.org/)
   ## Tests
   ${data.tests}
   ## Questions?
