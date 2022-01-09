@@ -1,4 +1,4 @@
-# README generator
+# readme generator
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -9,28 +9,30 @@
   * [Tests](#tests)
   * [Questions?](#questions)
   * [License](#license)
+  * [Screenshot]
   ## Description
-  Makes a readme file for projects on Github
+  Generates a readme file for github
   ## Installation
-  Use nodejs
+  Nodejs
   ## Usage
   Utility app
   ## Contributors
   Jennifer Emanuele
   ## How to Contribute
-  Please contact.
+  Contact.
   [
     Contributor Covenant](https://www.contributor-covenant.org/)
   ## Tests
-  Nodejs
+  
   ## Questions?
-  None
+  None.
   ## License
   Read more about MIT License here:
   [MIT License](https://opensource.org/licenses/MIT)
   ### Reach me here:
   [jenemanuele](https://github.com/jenemanuele) 
   or jemanuele@gmail.com
-  ##SCREENSHOT
+  ## Screenshot
+ 
   ![alt text](images/screenshot.1.PNG)
   
