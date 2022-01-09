@@ -1,4 +1,4 @@
-# README generator
+# jen
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -11,27 +11,27 @@
   * [License](#license)
   * [Screenshot]
   ## Description
-  generates a readme file
+  jen
   ## Installation
-  Nodejs
+  jen
   ## Usage
-  Utility app
+  jen
   ## Contributors
-  Jennifer Emanuele
+  jen
   ## How to Contribute
-  contact. 
+  jen
   Please see: [Contributor Covenant](https://www.contributor-covenant.org/)
   ## Tests
-  None
+  jen
   ## Questions?
-  None
+  
   ## License
-  Read more about MIT License here:
-  [MIT License](https://opensource.org/licenses/MIT)
+  Read more about Apache license 2.0 here:
+  [Apache license 2.0(https://opensource.org/licenses/Apache-2.0]
   ### Reach me here:
-  [jenemanuele](https://github.com/jenemanuele) 
-  or jemanuele@gmail.com
-  # ****Screenshot*****
+  [jen](https://github.com/jen) 
+  or jen
+  #  💜 Screenshot 💜
  
   ![alt text](images/screenshot.1.PNG)
   
