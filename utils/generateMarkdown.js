@@ -43,7 +43,6 @@ function generateMarkdown(data) {
   * [Tests](#tests)
   * [Questions?](#questions)
   * [License](#license)
-  * [Screenshot]
   ## Description
   ${data.description}
   ## Installation
@@ -67,7 +66,7 @@ function generateMarkdown(data) {
   or ${data.email}
   #  💜 Screenshot 💜 
   ![alt text](images/screenshot.1.PNG)
-  # Video 
+  # 📹 Video 📹
   [Video Walkthrough](https://watch.screencastify.com/v/42JNJvV0rcFUkYpQhw0k) 
   `
   ;
