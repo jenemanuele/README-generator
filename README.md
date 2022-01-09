@@ -1,5 +1,4 @@
 # README generator
-  ![alt text](images/test.1.PNG)
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -11,7 +10,7 @@
   * [Questions?](#questions)
   * [License](#license)
   ## Description
-  A professional README file generator for all applications and projects on github.
+  Makes a professional readme file for all projects and apps on github.
   ## Installation
   Use Nodejs
   ## Usage
@@ -19,7 +18,7 @@
   ## Contributors
   Jennifer Emanuele
   ## How to Contribute
-  Please contact.
+  Please contact. 
   [
     Contributor Covenant](https://www.contributor-covenant.org/)
   ## Tests
